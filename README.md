@@ -1,6 +1,6 @@
 Tasks-List-Mini-Project
 
-- This is a mini project with build with vanilla JavaScript.
+- This is a mini project build with vanilla JavaScript.
 - This project contains DOM manipulation and LocalStorage.
 - You can add a task on the list (they stored in your LocalStorage).
 - You can remove a task from the list.
